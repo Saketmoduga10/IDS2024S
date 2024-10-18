@@ -1,0 +1,47 @@
+1. Steps in Scientific Inference:
+   1. Observation: Collecting data and identifying patterns.
+   2. Hypothesis Formation: Developing a model or explanation.
+   3. Prediction: Making predictions based on the model.
+   4. Experimentation: Testing predictions through experiments.
+   5. Validation/Refinement: Comparing results with predictions.
+
+2. Three Pillars of Science: Theory, Experiment, Computation.
+
+3. Applications of the Third Pillar:
+   1. Weather Forecasting: Using models and simulations to replace complex, labor-intensive observations and theories.
+   2. Bioinformatics: Computational methods replacing experiments for biological analysis.
+   3. Financial Modeling: Simulations and predictions replacing purely theoretical analysis and experiments.
+
+4. Categories of Logical Reasoning:
+   1. Inductive Reasoning: (EX. observing that apples fall and concluding gravity affects them).
+   2. Deductive Reasoning: (EX. all humans are mortal; Socrates is human; therefore, Socrates is mortal).
+
+5. Data represents measurements or evidence, while reality is the actual state of the world. We cannot observe reality directly but we can observe data representing aspects of reality.
+
+6. Model Validation vs. Calibration:
+   1. Validation: Ensuring the model accurately predicts reality.
+   2. Calibration: Adjusting the model parameters to fit the observed data.
+
+7. Logical implication does not imply causation. EX. "If it rains, the ground is wet". This is an implication but it doesnt mean rain causes every instance of wet ground.
+
+8. George Boole.
+
+9. Represented by the overlapping area of two circles A and B.
+
+10. Represented by the combined area of both circles A and B, including overlaps.
+
+11. Two Boolean propositions are equal if they always have the same truth value.
+
+12. Equals `True`. EX: A + ¬A is always true.
+
+13. Equals `False`. EX: A ⋅ ¬A is always false.
+
+14. Circle A is fully inside circle B. If A is true, B must be true.
+
+15. Bit.
+
+16. No information exists if there are no elements or states to describe.
+
+17. Can represent `2^4 = 16` different integers.
+
+18. Can represent `3^4 = 81` different possibilities.
