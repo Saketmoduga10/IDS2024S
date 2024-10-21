@@ -1,0 +1,19 @@
+
+Local Version Control Systems: Stores versioned files locally on your computer.
+Centralized Version Control Systems (CVCS): A central server stores all the files, and team members check out files. Example: Subversion (SVN).
+Distributed Version Control Systems (DVCS): Each user has a complete copy of the repository. Example: Git.
+
+Distributed Version Control Systems (DVCS), like Git, are the best because:
+Full History: Every user has a full copy of the repository, which allows complete control and backups.
+Offline Work: Users can work offline, committing changes locally.
+Collaboration: It supports branching and merging better than CVCS, making it ideal for collaboration.
+
+a. git pull: Fetches the latest changes from the remote repository and merges them into your local branch. It is essentially a combination of git fetch and git merge.
+
+b. git status: Displays the current state of the working directory and staging area. It shows any changes that have been staged, changes that are not yet staged, and files that are not being tracked by Git.
+
+c. git add --all: Adds all changes (new files, modifications, deletions) in the working directory to the staging area, preparing them for the next commit.
+
+d. git commit -m "latest build": Creates a new commit with a snapshot of the staged changes. The -m flag allows you to add a commit message ("latest build") to describe the changes made.
+
+e. git push --all: Pushes all branches to the remote repository. It uploads the commits from all branches, not just the current one.
