@@ -1,4 +1,6 @@
+Regression: Predicting the global land temperature of Earth in 2050 from the past data: Choosing the best model - 
 
+4. The quadratic (polynomial of degree two) regression model appears to provide a better representation of reality when compared to the linear regression model. This is because the quadratic model accounts for the accelerated increase in temperature anomalies observed in recent years, which a simple linear model cannot capture effectively. Regarding temperature predictions for the near future, the quadratic model predicts a more rapid increase in temperature anomalies compared to the linear model, reflecting the trend of accelerating climate change.
 
 
 
