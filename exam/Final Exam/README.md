@@ -68,12 +68,22 @@ Additivity: P(A∪B)=P(A)+P(B), if A & B are disjoint.
  Common difference (𝑑) = 3
  Number of terms (𝑛) = 33
 S = n/2 x (a+l)
-S = 1683
+*S = 1683*
 
 29. PIC BELOW
 30. PIC BELOW
 31. PIC BELOW
-32. Types of fundamental uncertaintys are Measurement Uncertainty, Environmental Uncertainty, & Quantum Uncertainty
+32. Types of fundamental uncertaintys are aleatory, epistemic and ontological uncertainty. Aleatory uncertainty is intrinsic because it represents inherent randomness or variability in natural systems that cannot be eliminated
+
+
+![IMG_6550](https://github.com/user-attachments/assets/595eee25-57aa-486f-b429-b9081676f123)
+
+
+![IMG_6551](https://github.com/user-attachments/assets/1717faa8-a522-404e-9eb9-d16a60d2949e)
+
+
+![IMG_6552](https://github.com/user-attachments/assets/eaa9d26e-5b0e-4c0d-b392-5927139bac31)
+
 
 
 
