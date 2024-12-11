@@ -21,12 +21,12 @@ Used to highlight key features or emphasize certain data points in visualization
 
 5. 
 
-1. Valid: Inhaling and exhaling define breathing, so they are equivalent.
-2. Valid: The biconditional holds since breathing always involves inhaling and exhaling.
-3. Invalid: Being conscious doesn’t always imply breathing (e.g., artificial ventilation).
-4. Invalid: Consciousness doesn’t define breathing; they are related but not equivalent.
-5. Invalid: Rain doesn’t always imply cloudiness (e.g., rain from fog or unique weather conditions).
-6. Invalid: Rain is usually accompanied by clouds, but it’s not strictly equivalent.
+ Valid: Inhaling and exhaling define breathing, so they are equivalent.
+ Valid: The biconditional holds since breathing always involves inhaling and exhaling.
+ Invalid: Being conscious doesn’t always imply breathing (e.g., artificial ventilation).
+ Invalid: Consciousness doesn’t define breathing; they are related but not equivalent.
+ Invalid: Rain doesn’t always imply cloudiness (e.g., rain from fog or unique weather conditions).
+ Invalid: Rain is usually accompanied by clouds, but it’s not strictly equivalent.
 
 6. Theory, Experiment, Computation.
 7. No, logical implication is not the same as physical causation. Logical implication means that if one statement is true, another must also be true, based purely on reasoning. Physical causation requires a direct cause-effect relationship in the real world. Logical implication - "If it is raining, the ground is wet." (True based on reasoning, but doesn't explain how rain causes wet ground.) Physical causation - "Rain causes the ground to be wet because water falls and saturates the soil."
@@ -40,9 +40,9 @@ Used to highlight key features or emphasize certain data points in visualization
 9. No, probability is generally a value between 0 and 1 and it is represented using real numbers or fractions and not integers.
 
 10.    
-Non-negativity: P(A)≥0.
-Normalization: P(universe)=1.
-Additivity: P(A∪B)=P(A)+P(B), if A & B are disjoint.
+Non-negativity: P(A) ≥ 0.
+Normalization: P (universe) = 1.
+Additivity: P (A∪B) = P(A) + P(B), if A & B are disjoint.
 
 11. 1 - 1 in decimal.
     01 - 1 in decimal.
