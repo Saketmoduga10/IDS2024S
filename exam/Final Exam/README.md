@@ -57,4 +57,8 @@ Additivity: P(A∪B)=P(A)+P(B), if A & B are disjoint.
 19.  Computers use integers because they operate in binary and also because integers can be easily encoded and manipulated using binary arithmetic.
 20. Fortran
 21. Plankalkül is the first high level programming languages but a lot of people say Fortran is too.
-22. 
+22. PIC
+23. PIC
+24. Deductive reasoning: Starts with general principles to derive specific conclusions. EX -  "All humans are mortal. Socrates is human. Therefore, Socrates is mortal." Inductive reasoning: Draws general conclusions from specific observations. EX -  "The sun has risen every day so far. Therefore, it will rise tomorrow."
+25. If two Boolean propositions are equal, they produce the same truth value for every possible combination of inputs. This means they are logically equivalent.
+26. 
