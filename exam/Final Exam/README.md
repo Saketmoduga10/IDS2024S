@@ -48,7 +48,7 @@ Additivity: P(A∪B)=P(A)+P(B), if A & B are disjoint.
     01 - 1 in decimal.
     10 - 2 in decimal.
 12. Not really. Real numbers are approximated using floating-point representations which have finite precision so they cannot represent all real numbers
-13.  PIC
+13.  PIC BELOW
 14.  Git is a version control system for tracking code changes & GitHub is a platform for hosting Git repositories online.
 15.  Bayesian probability
 16.  Bayesian probability
@@ -57,8 +57,27 @@ Additivity: P(A∪B)=P(A)+P(B), if A & B are disjoint.
 19.  Computers use integers because they operate in binary and also because integers can be easily encoded and manipulated using binary arithmetic.
 20. Fortran
 21. Plankalkül is the first high level programming languages but a lot of people say Fortran is too.
-22. PIC
-23. PIC
+22. PIC BELOW
+23. PIC BELOW
 24. Deductive reasoning: Starts with general principles to derive specific conclusions. EX -  "All humans are mortal. Socrates is human. Therefore, Socrates is mortal." Inductive reasoning: Draws general conclusions from specific observations. EX -  "The sun has risen every day so far. Therefore, it will rise tomorrow."
 25. If two Boolean propositions are equal, they produce the same truth value for every possible combination of inputs. This means they are logically equivalent.
-26. 
+26. PIC BELOW
+27. The symbol ∣ represents conditional probability, meaning the probability of 𝐴 given that both 𝐵 and 𝑈 are true. It reflects how the presence of conditions 𝐵 and 𝑈 affects the likelihood of 𝐴.
+28. The summation S = 3 + 6 + 9 + ... + 99 is an arithmetic series with:
+ First term (𝑎) = 3
+ Common difference (𝑑) = 3
+ Number of terms (𝑛) = 33
+S = n/2 x (a+l)
+S = 1683
+
+29. PIC BELOW
+30. PIC BELOW
+31. PIC BELOW
+32. Types of fundamental uncertaintys are Measurement Uncertainty, Environmental Uncertainty, & Quantum Uncertainty
+
+
+
+
+
+
+
